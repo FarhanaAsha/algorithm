@@ -1,4 +1,3 @@
-//https://lightoj.com/problem/not-the-best
 //Not the best Problem in Lightoj
 
 #include <bits/stdc++.h>
@@ -63,3 +62,4 @@ int main()
 
     return 0;
 }
+
