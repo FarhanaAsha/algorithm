@@ -1,4 +1,3 @@
-//https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=508
 // Risk problem in Onlinejudge
 
 #include <bits/stdc++.h>
@@ -72,3 +71,4 @@ int main()
 
     return 0;
 }
+
